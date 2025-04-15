@@ -31,7 +31,10 @@ Here are some of my key skills and areas of expertise:
 * Top 0.1% Topmate for mentorship/interviewer in February 2025.
 * Badminton: Three-time consecutive champion in both singles and doubles at the Visa Badminton Tournament. 
 * Recognized as "Best Player" in the Cult Fitso quarterly tournament.
-* Led the reading club and was a core member of the Literary Club. 
+* Led the reading club and was a core member of the Literary Club.
+
+### Github Stats
+![](https://github-readme-stats.vercel.app/api?username=nikita15p&theme=vue-dark&show_icons=true&count_private=true)
 
 ### Want to get in touch?
 
