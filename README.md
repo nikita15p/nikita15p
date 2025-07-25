@@ -38,7 +38,7 @@ Here are some of my key skills and areas of expertise:
 
 ### Apache JIRA Contributions
 
-#### 2025
+## 2025
 
 ### July
 1. **AMBARI-26527** - Implement User-Selectable Dark/Light Mode for Ambari UI
@@ -469,3 +469,4 @@ Here are some of my key skills and areas of expertise:
 
 * LinkedIn:  [https://www.linkedin.com/in/nikita-pande-53321a39/](https://www.linkedin.com/in/nikita-pande-53321a39/)
 * Topmate: [https://topmate.io/nikita_pande/]
+* Medium: [https://medium.com/@nikita15p/stop-the-jira-shuffle-how-mcps-keep-developers-in-the-zone-and-sane-9789a1fb1499]
