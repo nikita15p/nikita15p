@@ -1,6 +1,6 @@
 # Nikita Pande
 
-👋 Hello! I'm a hands-on engineering leader with 12+ years of experience in building complex distributed systems. I'm passionate about exploring and learning new technologies and love problem solving.
+👋 Hello! I'm a hands-on engineering leader with 13+ years of experience in building complex distributed systems. I'm passionate about exploring and learning new technologies and love problem solving.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nikita15p)
 
